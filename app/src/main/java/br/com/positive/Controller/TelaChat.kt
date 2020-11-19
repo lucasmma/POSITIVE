@@ -30,12 +30,11 @@ class TelaChat : BaseActivity(){
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        IDUSUARIO = getUser().id!!
-
         setContentView(R.layout.activitytelachat)
 
-        chatadapter = ChatAdapter(listaDeMensagens, getUser().id!!)
 
+        IDUSUARIO = getUser().id!!
+        chatadapter = ChatAdapter(listaDeMensagens, getUser().id!!)
         chatrecycler.adapter = chatadapter
         chatrecycler.layoutManager = layoutManager
 
