@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Azul">#3565AF</color>
+    <color name="Azulescuro">#21529C</color>
+    <color name="Azulclaro">#9bceff</color>
+    <color name="AzulBotaoQuestaoSimulado">#63a0f3</color>
+    <color name="Vermelho">#E84854</color>
+    <color name="Amarelo">#E5A51B</color>
+    <color name="Verde">#00C558</color>
+    <color name="Vermelhoescuro">#D53541</color>
+    <color name="Verdeescuro">#00B245</color>
+    <color name="Cinza">#C7C7CC</color>
+    <color name="Branco">#fff</color>
+    <color name="Preto">#000</color>
+    <color name="Cinzaescuro">#B4B4B4</color>
+    <color name="hintcolor">#787676</color>
+    <color name="vermelhoinicio">#E42532</color>
+    <color name="cinzaclaro">#deebfc</color>
+    <color name="cinzaf5f5f5">#f5f5f5</color>
+    <color name="VerdeProgressBar">#63d98f</color>
+    <color name="VermelhoProgressBar">#fc5c5c</color>
+    <color name="CinzaProgressBar">#cccccc</color>
+    <color name="RoxoPremium">#d868ff</color>
+    <color name="AmareloPremium">#ffba68</color>
+    <color name="fundopadrao">#EAEAEA</color>
+</resources>

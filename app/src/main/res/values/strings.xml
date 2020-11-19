@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">POSITIVE</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="naotemconta">Não tem a conta? Faça seu cadastro</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="nome">Nome</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="preenchaoemailcorretamente">Preencha com um email corretamente</string>
+    <string name="preenchaonomecorretamente">Preencha com seu nome</string>
+    <string name="preenchaosobrenomecorretamente">Preencha com seu sobrenome</string>
+    <string name="preenchasuasenha">Preencha sua senha</string>
+    <string name="confirmesuasenha">Confirme sua senha</string>
+    <string name="senhaconfirma">Confirmar senha</string>
+    <string name="sair">Sair</string>
+</resources>
